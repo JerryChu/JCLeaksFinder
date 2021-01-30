@@ -1,0 +1,28 @@
+PODS:
+  - FBRetainCycleDetector (0.1.4)
+  - JCLeaksFinder (0.1.9):
+    - JCLeaksFinder/GlobalRetainDetector (= 0.1.9)
+    - JCLeaksFinder/MLeaksFinder (= 0.1.9)
+  - JCLeaksFinder/GlobalRetainDetector (0.1.9)
+  - JCLeaksFinder/MLeaksFinder (0.1.9):
+    - FBRetainCycleDetector
+    - JCLeaksFinder/GlobalRetainDetector
+
+DEPENDENCIES:
+  - JCLeaksFinder (from `../JCLeaksFinder.podspec`)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - FBRetainCycleDetector
+
+EXTERNAL SOURCES:
+  JCLeaksFinder:
+    :path: "../JCLeaksFinder.podspec"
+
+SPEC CHECKSUMS:
+  FBRetainCycleDetector: 46f8179bbb1c587deee3ea838a1a3ee02acf5015
+  JCLeaksFinder: 94b390ced082099a03727fd49dbfe87ea244def6
+
+PODFILE CHECKSUM: bd65a310eb2fd3f4f2c948b5c112ee5d0cfd402b
+
+COCOAPODS: 1.8.4
