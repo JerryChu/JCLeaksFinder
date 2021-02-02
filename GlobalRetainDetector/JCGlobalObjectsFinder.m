@@ -3,7 +3,7 @@
 //  QJCews
 //
 //  Created by JerryChu on 2020/12/3.
-//  Copyright © 2020 Tencent. All rights reserved.
+//  Copyright © 2020 JerryChu. All rights reserved.
 //
 
 #if __has_feature(objc_arc)

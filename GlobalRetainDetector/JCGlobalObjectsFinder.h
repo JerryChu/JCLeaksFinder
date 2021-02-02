@@ -3,7 +3,7 @@
 //  QJCews
 //
 //  Created by JerryChu on 2020/12/3.
-//  Copyright © 2020 Tencent. All rights reserved.
+//  Copyright © 2020 JerryChu. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

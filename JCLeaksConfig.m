@@ -3,6 +3,7 @@
 //  FBRetainCycleDetector
 //
 //  Created by JerryChu on 2021/1/11.
+//  Copyright © 2020 JerryChu. All rights reserved.
 //
 
 #import "JCLeaksConfig.h"

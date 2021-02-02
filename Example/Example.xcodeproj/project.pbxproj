@@ -452,7 +452,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = LK6GS2WSHW;
+				DEVELOPMENT_TEAM = 57AQ433AD9;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -460,7 +460,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.cm.jerrychu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = com.tencent.info.develop_Development_SignProvision;
+				PROVISIONING_PROFILE_SPECIFIER = comall;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -473,7 +473,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = LK6GS2WSHW;
+				DEVELOPMENT_TEAM = 57AQ433AD9;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -481,7 +481,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.cm.jerrychu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = com.tencent.info.develop_Development_SignProvision;
+				PROVISIONING_PROFILE_SPECIFIER = comall;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -498,7 +498,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.info.ExampleTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cm.jerrychu.ExampleTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example.app/Example";
@@ -517,7 +517,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.info.ExampleTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cm.jerrychu.ExampleTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example.app/Example";

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "JCLeaksFinder"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "Find memory leaks in your iOS app at develop time."
   s.description      = 'iOS 内存泄漏检测工具，支持检测内存泄漏并输出循环引用链/全局对象引用链。'
   s.author           = 'jerrychu'
